@@ -1,0 +1,37 @@
+/* paragraph */
+p {
+  color: red;
+}
+
+#titulo {
+  color: blue;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5vw;
+  border: 5px solid black;
+  text-align: center;
+  width: 30%;
+    margin: 0 auto;
+
+}
+
+#contenido {
+    color: green;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5vw;
+    border: 5px solid black;
+    text-align: center;
+    width: 30%;
+        margin: 0 auto;
+}
+
+#contenido p {
+    color: blue;
+}
+/* <ul> inside of id="contenido" */
+#contenido ul {
+    color: red;
+    list-style-type: none;
+    padding: 0;
+}
