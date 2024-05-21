@@ -1,4 +1,5 @@
 // import Character from '@/components/Character';
+"use client";
 import CharCard from '@/components/CharCard';
 import { useState, useEffect } from 'react';
 
